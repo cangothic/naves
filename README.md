@@ -1,4 +1,4 @@
-# Las naves de lycan
+# Bucle estelar
 
 Un juego del canal para aprender Python programando una nave de batalla: escribes su programa con Python de verdad (if, while, funciones, listas y diccionarios) y la nave pelea sola en la arena, turno por turno. Siete misiones de entrenamiento, batallas contra bots que se pueden leer y salas en línea de hasta seis naves.
 
